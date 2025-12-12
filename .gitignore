@@ -1,0 +1,9 @@
+# Firebase Config (Bunu gizliyoruz)
+GoogleService-Info.plist
+
+# Mac Sistem Dosyaları (Gereksiz)
+.DS_Store
+
+# Xcode Kullanıcı Ayarları (Gereksiz)
+*/xcuserdata/
+*.xcuserstate
